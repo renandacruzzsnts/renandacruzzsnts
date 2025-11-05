@@ -1,7 +1,7 @@
 # Olá, eu sou o Renan Santos! 👋
 
-Desenvolvedor Back-End | Java, Javascript, Spring Boot, SQL, Quarkus👨🏻‍💻
-Aqui você encontrará exemplos, estudos e aplicações desenvolvidos usando diferentes linguagens de programação! ☕
+- Desenvolvedor Back-End | Java, Javascript, Spring Boot, SQL, Quarkus👨🏻‍💻
+- Aqui você encontrará exemplos, estudos e aplicações desenvolvidos usando diferentes linguagens de programação! ☕
 
 ## Contatos ☎️
 
