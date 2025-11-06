@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o **Renan da Cruz Santos**
 
 💻 **Desenvolvedor Back-End Java** apaixonado por criar soluções simples e funcionais.  
-🚀 Trabalho com **Java, Spring Boot, Quarkus, SQL e Docker**, desenvolvendo APIs e aplicações voltadas à eficiência e escalabilidade.  
+🚀 Estudo **Java, Spring Boot, Quarkus, SQL e Docker**, desenvolvendo APIs e aplicações voltadas à eficiência e escalabilidade.  
 ☕ Aqui você encontra meus **estudos, projetos pessoais e experimentos com diferentes tecnologias.**
 
 ---
