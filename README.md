@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o **Renan da Cruz Santos**
 
 💻 **Desenvolvedor Back-End Java** apaixonado por criar soluções simples e funcionais.  
-🚀 Estudo **Java, Spring Boot, Quarkus, SQL e Docker**, desenvolvendo APIs e aplicações voltadas à eficiência e escalabilidade.  
+🚀 Trabalho com **Java, Spring Boot, Quarkus, SQL e Docker**, desenvolvendo APIs e aplicações voltadas à eficiência e escalabilidade.  
 ☕ Aqui você encontra meus **estudos, projetos pessoais e experimentos com diferentes tecnologias.**
 
 ---
@@ -18,11 +18,10 @@ Se quiser trocar uma ideia sobre tecnologia ou projetos, pode me chamar por aqui
 ## ⚙️ Tecnologias & Ferramentas
 
 ### 💬 Linguagens e Frameworks
-
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg")
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
